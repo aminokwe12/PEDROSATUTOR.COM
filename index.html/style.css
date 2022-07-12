@@ -1,0 +1,26 @@
+h1{
+    color: rgb(234, 240, 245);
+    size: 22vh;
+}
+
+h2{
+    color: aliceblue;
+}
+p{
+    color: rgb(202, 235, 59);
+    src: url(p1.png);
+}
+html{
+}
+progress{
+    color: brown;
+}
+body{
+    font-size: 15pt;
+    background-color: azure;
+    div{
+        padding: 100px;
+        border: 20px solid blanchedalmon;
+        margin: 100px;
+    }
+}
